@@ -1,1 +1,0 @@
-SELECT * FROM sistema_login.usuarios;
